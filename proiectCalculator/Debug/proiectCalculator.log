@@ -1,0 +1,9 @@
+﻿  Calculator.cpp
+C:\Users\alexf\Desktop\Altele\proiectCalculator\proiectCalculator\Calculator.cpp(27,29): warning C4018: '<': signed/unsigned mismatch
+  proiectCalculator.cpp
+C:\Users\alexf\Desktop\Altele\proiectCalculator\proiectCalculator\proiectCalculator.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Shunting_Yard.cpp
+  Stack.cpp
+  Generating Code...
+C:\Users\alexf\Desktop\Altele\proiectCalculator\proiectCalculator\Calculator.cpp(34): warning C4715: 'Calculator::operator[]': not all control paths return a value
+  proiectCalculator.vcxproj -> C:\Users\alexf\Desktop\Altele\proiectCalculator\Debug\proiectCalculator.exe
